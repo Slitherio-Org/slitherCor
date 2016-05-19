@@ -3,8 +3,8 @@
 // @namespace   slitherCor
 // @description Show your cordinates of slither.io
 // @include     *://slither.io/*
-// @updateURL   https://github.com/slitherCor/butaixianran/raw/master/slitherCor.js
-// @downloadURL https://github.com/slitherCor/butaixianran/raw/master/slitherCor.js
+// @updateURL   https://raw.githubusercontent.com/butaixianran/slitherCor/master/slitherCor.js
+// @downloadURL https://raw.githubusercontent.com/butaixianran/slitherCor/master/slitherCor.js
 // @version     0.0.1
 // @grant       none
 // ==/UserScript==
